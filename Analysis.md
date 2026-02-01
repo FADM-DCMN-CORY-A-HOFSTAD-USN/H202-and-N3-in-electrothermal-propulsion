@@ -7,7 +7,7 @@ The system operates on a high-energy chemical expansion principle rather than tr
 * **Induction & Harvesting:** The vessel harvests ambient Oxygen () and Nitrogen () from space or planetary atmospheres via induction channels.
 * **The Reaction:** Thrust is generated in a **Pre-Exhaust Housing**. Atomized Hydrogen Peroxide () is mixed with pressurized Nitrogen.
 * **Expansion:** The resulting chemical reaction creates a rapid volumetric expansion. When the internal pressure hits a "breaking point," the **exhaust shutters** blow open, releasing the energy to propel the ship across vast distances.
-* **Comparison:** This chemical method is noted as being less efficient than the **Electroacoustic Propulsion** developed by **Master Sergeant 27th Grade Fleet Admiral 27th Degree Salute Master Cory Andrew Hofstad**, but it remains a reliable interstellar standard.
+* **Comparison:** This chemical method is noted as being less efficient than the **Electroacoustic Propulsion** developed by **FADM Cory Andrew Hofstad**, but it remains a reliable interstellar standard.
 
 ### 2. Instrumentation and "Analog" Control
 
